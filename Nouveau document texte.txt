@@ -1,5 +1,0 @@
-
-    Nom d'hôte (serveur FTP) : ftp.cluster028.hosting.ovh.net
-    Identifiant (login FTP) : creatqa
-    Mot de passe (password FTP) : SgCEUnczx7Qn
-    Port : 21
